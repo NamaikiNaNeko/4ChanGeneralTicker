@@ -17,3 +17,8 @@ The service can be stopped with "NET STOP [service name]"
 
 An arduino sketch accepts text strings 500 characters long and scrolls them
 across a series of MAX7219 driver + LED matrix pairs.
+
+
+
+https://user-images.githubusercontent.com/16394540/118410451-1b370c80-b655-11eb-8533-6348f9e1949c.mp4
+
